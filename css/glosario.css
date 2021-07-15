@@ -1,0 +1,99 @@
+*{
+padding:0px;
+margin: 0px;
+}
+.section1{
+margin:auto;
+padding:0px;
+}
+
+
+.encabezado{
+color:black;
+font-size:4rem;
+text-align: center;
+}
+.section2{
+margin:30px 15px 20px 0px;
+padding:0.8rem;
+}
+
+.section3{
+ margin:30px 15px 20px 0px;
+ padding:0.8rem;
+}
+
+.titulo2{
+color:black;
+font-size:1.8rem;
+font-family:monospace;
+text-align:center;
+}
+
+.tabla{
+ border:3px solid black;
+}
+
+.titulo3{
+font-size:1.2rem;
+font-family:sans-serif;
+text-align:center;
+}
+
+.titulo5{
+color:purple;
+font-family:sans-serif;
+text-align: center;
+}
+.txt{
+    color: purple;
+    font-family:sans-serif;
+    text-align: left;
+    font-size:1.3rem;
+}
+
+.texto{
+font-size:1.2rem;
+font-family:sans-serif;
+}
+
+.parrafo1{
+color:black;
+font-size:2rem;
+font-family:sans-serif;
+text-align:left;
+}
+
+h2{
+font-size:1.7rem;
+font-family:monospace;
+}
+
+h3{
+color:crimson;
+font-size:22px;
+font-family: monospace;
+}
+
+li{
+color:black;
+font-size:19px;
+font-family: monospace;
+}
+.resaltado{
+background-color: darksalmon;
+}
+
+img{
+border:5px solid crimson;
+margin:30px 15px 20px 0px;
+}
+
+footer{
+background-color:#EB7972;
+}
+.nombre{
+text-align: center;
+font-size:18px;
+font-family: sans-serif;
+}
