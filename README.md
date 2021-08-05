@@ -25,4 +25,4 @@
 <h1>Contenido</h1>
 https://alondraherrera02.github.io/Glosario/
 <h1>Objetivos Futuros</h1>
-
+<img src="img2/Objetivos Futuros1.jpg">
