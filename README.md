@@ -4,23 +4,22 @@
 <img src="img2/Anteportada.jpg">
 
 <h1>Índice</h1>
-<ol>
-<li>Home Page</li>
-<li>Header</li>
-<li>Tipos de etiquetas</li>
-<li>Estructura de etiquetas</li>
-<li>Listas de etiquetas dirigidas al texto</li>
-   <li>Títulos</li>
-   <li>Párrafos</li>
-<li>Listas de etiquetas dirigidas a objetos</li>
-   <li>Estructuras</li>
-   <li>Imágenes</li>
-<li>Otras etiqeutas para diseñar tu página web</li>
-  <li>Listas ordenadas</li>
-  <li>Listas desordenadas</li>
-  <li>Para crear tablas</li>
-<li>Tabla de Propiedades Genarales</li>
-<li>Tabla de propiedades CSS aprendidas en el segundo periodo</li>
-<li>¿Cómo se conecta un css en HTML?</li>
-</ol>
+<p>1.Home Page</p>
+<p>2.Header</p>
+<p>3.Tipos de etiquetas</p>
+<p>4.Estructura de etiquetas</p>
+<p>5.Listas de etiquetas dirigidas al texto</p>
+  <p>5.1Títulos</p>
+  <p>5.2Párrafos</p>
+<p>6Listas de etiquetas dirigidas a objetos</p>
+  <p>6.1Estructuras</p>
+  <p>6.2Imágenes</p>
+<p>7.Otras etiqeutas para diseñar tu página web</p>
+  <p>7.1Listas ordenadas</p>
+  <p>7.2Listas desordenadas</p>
+  <p>7.3Para crear tablas</p>
+<p>8.Tabla de Propiedades Genarales</p>
+<p>9.Tabla de propiedades CSS aprendidas en el segundo periodo</p>
+<p>10.¿Cómo se conecta un css en HTML?</p>
+
 <img src="img2/Objetivos.jpg">
