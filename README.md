@@ -21,7 +21,7 @@
 <p>8.Tabla de Propiedades Genarales</p>
 <p>9.Tabla de propiedades CSS aprendidas en el segundo periodo</p>
 <p>10.¿Cómo se conecta un css en HTML?</p>
-
 <img src="img2/Objetivos.jpg">
-<a href="https://alondraherrera02.github.io/Glosario/"</a>
+<h1>Contenido</h1>
+https://alondraherrera02.github.io/Glosario/
 
