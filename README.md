@@ -24,3 +24,4 @@
 <img src="img2/Objetivos.jpg">
 <h1>Contenido</h1>
 https://alondraherrera02.github.io/Glosario/
+<img src="img2/Objetivo Futuro.jpg">
