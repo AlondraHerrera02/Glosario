@@ -23,4 +23,5 @@
 <p>10.¿Cómo se conecta un css en HTML?</p>
 
 <img src="img2/Objetivos.jpg">
+<a href="https://alondraherrera02.github.io/Glosario/"</a>
 
