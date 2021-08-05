@@ -1,9 +1,10 @@
 # Glosario
 
 <img src="img2/Portada.jpg">
-
 <img src="img2/Anteportada.jpg">
+
 <h1>Índice</h1>
+<li>
 1.Home Page
 2.Header
 3.Tipos de etiquetas
@@ -21,4 +22,5 @@
 8.Tabla de Propiedades Genarales
 9.Tabla de propiedades CSS aprendidas en el segundo periodo 
 10.¿Cómo se conecta un css en HTML?
+</li>
 <img src="img2/Objetivos.jpg">
