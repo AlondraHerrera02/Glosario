@@ -23,3 +23,4 @@
 <p>10.¿Cómo se conecta un css en HTML?</p>
 
 <img src="img2/Objetivos.jpg">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/S0SkS78" data-context="false" ><a href="//imgur.com/a/S0SkS78"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
