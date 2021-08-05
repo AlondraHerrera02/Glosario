@@ -6,22 +6,22 @@
 <h1>Índice</h1>
 <ol>
 <li>
-1.Home Page
-2.Header
-3.Tipos de etiquetas
-4.Estructura de etiquetas
-5.Listas de etiquetas dirigidas al texto
-   5.1Títulos
-   5.2Párrafos
-6.Listas de etiquetas dirigidas a objetos
-   6.1Estructuras
-   6.2Imágenes
-7.Otras etiqeutas para diseñar tu página web
-   7.1Listas ordenadas
-   7.2Listas desordenadas
-   7.3Para crear tablas
-8.Tabla de Propiedades Genarales
-9.Tabla de propiedades CSS aprendidas en el segundo periodo 
-10.¿Cómo se conecta un css en HTML?
+Home Page
+Header
+Tipos de etiquetas
+Estructura de etiquetas
+Listas de etiquetas dirigidas al texto
+   Títulos
+   Párrafos
+Listas de etiquetas dirigidas a objetos
+   Estructuras
+   Imágenes
+tras etiqeutas para diseñar tu página web
+  Listas ordenadas
+  Listas desordenadas
+  Para crear tablas
+Tabla de Propiedades Genarales
+Tabla de propiedades CSS aprendidas en el segundo periodo 
+¿Cómo se conecta un css en HTML?
 </li></ol>
 <img src="img2/Objetivos.jpg">
