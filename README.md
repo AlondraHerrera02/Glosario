@@ -4,6 +4,7 @@
 <img src="img2/Anteportada.jpg">
 
 <h1>Índice</h1>
+<ol>
 <li>
 1.Home Page
 2.Header
@@ -22,5 +23,5 @@
 8.Tabla de Propiedades Genarales
 9.Tabla de propiedades CSS aprendidas en el segundo periodo 
 10.¿Cómo se conecta un css en HTML?
-</li>
+</li></ol>
 <img src="img2/Objetivos.jpg">
